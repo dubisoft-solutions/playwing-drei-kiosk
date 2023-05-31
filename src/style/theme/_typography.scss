@@ -1,0 +1,23 @@
+p {
+    font-family: "Montserrat", sans-serif;
+    font-size: .75rem;
+    color: $grey;
+    margin-bottom: 0;
+    margin-top: 0;
+}
+
+h1 {
+    font-weight: bold;
+    font-size: 1.625rem;
+    color: $white;
+    margin-bottom: 0;
+}
+
+.text-description {
+    font-size: .688rem;
+    color: $white;
+    margin-bottom: 1.5rem;
+    a {
+        font-size: .688rem;
+    }
+}
